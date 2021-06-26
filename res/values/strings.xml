@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemoteJoystick</string>
+    <string name="button_tester">Connect</string>
+    <string name="connecting">Connecting ...</string>
+</resources>
