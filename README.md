@@ -13,3 +13,7 @@ In order to run the Application it is required to:
 \***make sure to use port 6400** - this is where the FG simulator is waiting for connection.<br>
 \*if you cannot manage to connect to your computer's ip - this might be due to a firewall issue. (using ip 10.0.2.2 instead should work)
 6. take control and fly through the sky!
+
+
+
+<br><br>Link for explanation and demonstration of the app: https://youtu.be/Jl-NAYUhHu0
